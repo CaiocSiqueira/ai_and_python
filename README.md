@@ -9,3 +9,6 @@
 
 ## Day 4 - Falied attempt to show WHO covid data using Pandas
 [Failed pandas attempt](https://github.com/CaiocSiqueira/ai_and_python/blob/master/analysing-who-data-covid/WHO%20Data%20analysis%20with%20Pandas.ipynb)
+
+## Day 5 - Pandas basic overview
+[Code](https://github.com/CaiocSiqueira/ai_and_python/blob/master/Panda%20basics%20overview/Pandas%20overview.ipynb)
