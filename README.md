@@ -12,3 +12,6 @@
 
 ## Day 5 - Pandas basic overview
 [Code](https://github.com/CaiocSiqueira/ai_and_python/blob/master/the-basics/Panda%20basics%20overview/Pandas%20overview.ipynb)
+
+## Day 6 and 7 - Lots of reading and creating a first model using scikit
+[Code](https://github.com/CaiocSiqueira/ai_and_python/blob/master/machine-learning-with-scikit/Linear%20Models%20for%20Regression.ipynb)
